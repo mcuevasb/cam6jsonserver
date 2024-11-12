@@ -4,7 +4,7 @@ const url = require('url');
 
 // Lee y almacena el contenido del archivo JSON
 let data = [];
-fs.readFile('./data.json', 'utf-8', (err, content) => {
+fs.readFile(`${__dirname}/data.json`, 'utf-8', (err, content) => {
     if (err) {
         console.error("Error al leer el archivo JSON:", err);
     } else {
