@@ -14253,6 +14253,908 @@
     "edificio": "Teatro Vicente Murga",
     "salon": ""
     }]
+    },
+    
+    {"id": "649",
+    "enomb": "Raimunda Paixao Brago ",
+    "Pais": "Brasil",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    }]
+    },
+    
+    {"id": "650",
+    "enomb": "María del Mar Bosch",
+    "Pais": "Brasil",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Salón 320"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 200"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    }]
+    },
+    
+    {"id": "651",
+    "enomb": "Coco Veloz",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 202"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 214"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "652",
+    "enomb": "Damaris Thillet",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Perea",
+    "salon": "Sala Madre Teresa de Calcuta"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 101"
+    }]
+    },
+    
+    {"id": "653",
+    "enomb": "Martin Vazquez Gomez Cirilo",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 104"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 210"
+    }]
+    },
+    
+    {"id": "654",
+    "enomb": "Jose Ramon",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 218"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 301"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "655",
+    "enomb": "Arcangel Santiago",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 202"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 102"
+    }]
+    },
+    
+    {"id": "656",
+    "enomb": "Haroeel A Godinez Hurtado",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 110"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Perea",
+    "salon": "Sala Madre Teresa de Calcuta"
+    }]
+    },
+    
+    {"id": "657",
+    "enomb": "Flor M. Godinez",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Centro de Estudiantes",
+    "salon": "Capilla"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 302"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "658",
+    "enomb": "Ana Laura Calderon",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 218"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 103"
+    }]
+    },
+    
+    {"id": "659",
+    "enomb": "Arcangel Santiago",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 201"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 202"
+    }]
+    },
+    
+    {"id": "660",
+    "enomb": "Ivonne Aguirre",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Biblioteca"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 303"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "661",
+    "enomb": "Rosa Elena Moreno",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Centro de Estudiantes",
+    "salon": "Capilla"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 104"
+    }]
+    },
+    
+    {"id": "662",
+    "enomb": "Elba Maria Urbina Hernandez",
+    "Pais": "Nicaragua",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 202"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 218"
+    }]
+    },
+    
+    {"id": "663",
+    "enomb": "Carmen Margarita Benitez",
+    "Pais": "Paraguay",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Salón 320"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 304"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "664",
+    "enomb": "Aldo Rene Fanego Maisana ",
+    "Pais": "Paraguay",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Biblioteca"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 110"
+    }]
+    },
+    
+    {"id": "665",
+    "enomb": "Elias Perez Esteban",
+    "Pais": "EUROPA",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 203"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Centro de Estudiantes",
+    "salon": "Capilla"
+    }]
+    },
+    
+    {"id": "666",
+    "enomb": "Paolo Annechini",
+    "Pais": "EUROPA",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 200"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 305"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "667",
+    "enomb": "Mons. Edmundo Valenzuela",
+    "Pais": "Paraguay",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Salón 320"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 201"
+    }]
+    },
+    
+    {"id": "668",
+    "enomb": "Mons. Michele Autuoro",
+    "Pais": "EUROPA",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 204"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Biblioteca"
+    }]
+    },
+    
+    {"id": "669",
+    "enomb": "P. Pedro Manuel Brassesco",
+    "Pais": "Argentina",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 311"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "670",
+    "enomb": "P. Fernando Luis Barreto Mercado",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 200"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 202"
+    }]
+    },
+    
+    {"id": "671",
+    "enomb": "P. Alejandro López Cardinale",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 205"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Salón 320"
+    }]
+    },
+    
+    {"id": "672",
+    "enomb": "P. Michael S. Castiblanco Chacon",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 210"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 312"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "673",
+    "enomb": "P. Carlo Busiello",
+    "Pais": "EUROPA",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 210"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 210"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 210"
+    }]
+    },
+    
+    {"id": "674",
+    "enomb": "P. Valerio Bersano",
+    "Pais": "EUROPA",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 212"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 200"
+    }]
+    },
+    
+    {"id": "675",
+    "enomb": "P. Marco Testa",
+    "Pais": "EUROPA",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Perea",
+    "salon": "Sala Madre Teresa de Calcuta"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "salón 313"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "676",
+    "enomb": "P. Reginaldo Cordeiro",
+    "Pais": "EUROPA",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 210"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Perea",
+    "salon": "Sala Madre Teresa de Calcuta"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 203"
+    }]
+    },
+    
+    {"id": "677",
+    "enomb": "Hno. Juan Fernando López Pérez ",
+    "Pais": "Brasil",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Estudio de Católica Televisión"
+    }]
+    },
+    
+    {"id": "678",
+    "enomb": "Hna. María Imelda Velasco Estrada",
+    "Pais": "Brasil",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 202"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 314"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "679",
+    "enomb": "Hna. Consuelo Gómez Luna",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 202"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 204"
+    }]
+    },
+    
+    {"id": "680",
+    "enomb": "Hna. Wanda Marquez Lopez",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 213"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Centro de Estudiantes",
+    "salon": "Capilla"
+    }]
+    },
+    
+    {"id": "681",
+    "enomb": "Hna. Cecilia Serrano Guzmán, HC",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 218"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 101"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "682",
+    "enomb": "Hna. Simona Rosario Acosta",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Spellman/Facultad Derecho",
+    "salon": "Sala 218"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 205"
+    }]
+    },
+    
+    {"id": "683",
+    "enomb": "Hna Xinia Rodriguez",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 214"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Biblioteca"
+    }]
+    },
+    
+    {"id": "684",
+    "enomb": "Hna. Dayce Yanina Martínez Sánchez",
+    "Pais": "Estados Unidos",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Centro de Estudiantes",
+    "salon": "Capilla"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 102"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "685",
+    "enomb": "Hna. María Teodosa Gómez Pozo",
+    "Pais": "Estados Unidos",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Centro de Estudiantes",
+    "salon": "Capilla"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 212"
+    }]
+    },
+    
+    {"id": "686",
+    "enomb": "Hna. Nora Marina Oviedo Rivera",
+    "Pais": "Estados Unidos",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 301"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Administración de Empresas",
+    "salon": "Salón 320"
+    }]
+    },
+    
+    {"id": "687",
+    "enomb": "Hna. Mora Ruth Del Pilar",
+    "Pais": "EUROPA",
+    "grupo": "San Francisco Javier",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Biblioteca"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 103"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    }]
+    },
+    
+    {"id": "688",
+    "enomb": "Hna. Maria Mercedes Pineiro Cruz",
+    "Pais": "EUROPA",
+    "grupo": "Maria, Reina de las Misiones",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio Perea",
+    "salon": "Sala Madre Teresa de Calcuta"
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 213"
+    }]
+    },
+    
+    {"id": "689",
+    "enomb": "Hna. Geuna Anna Maria",
+    "Pais": "EUROPA",
+    "grupo": "Santa Teresita del Niño Jesús",
+    "agenda": [{"dia": "miércoles, 20 de noviembre de 2024",
+    "encuentro": "Discusión Instrumentum Laboris",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Edificio McManus",
+    "salon": "Salón 302"
+    },{"dia": "jueves, 21 de noviembre de 2024",
+    "encuentro": "Testimonios Misioneros",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Teatro Vicente Murga",
+    "salon": ""
+    },{"dia": "viernes, 22 de noviembre de 2024",
+    "encuentro": "Proyectos y Experiencias",
+    "horario": "3:00 p.m. a 4:30 p.m.",
+    "edificio": "Academia Santa María Reina",
+    "salon": "Salón 200"
+    }]
     }
     
     ]
