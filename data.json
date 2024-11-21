@@ -37469,7 +37469,7 @@
     },
     {
         "id": "1293",
-        "enomb": "P. Juan Carlos Rivera Medina",
+        "enomb": "Noel Reyes Rivera",
         "Pais": "Puerto Rico",
         "grupo": "San Francisco Javier",
         "agenda": [
@@ -37477,22 +37477,22 @@
                 "dia": "miércoles, 20 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
-                "edificio": "Administración de Empresas",
-                "salon": "Estudio de Católica Televisión"
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 218"
             },
             {
-                "dia": "jueves, 21 de noviembre de 2024",
-                "encuentro": "Discusión Instrumentum Laboris",
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
-                "edificio": "Edificio McManus",
-                "salon": "Salón 202"
+                "edificio": "Academia Santa María Reina",
+                "salon": "Biblioteca"
             },
             {
-                "dia": "viernes, 22 de noviembre de 2024",
-                "encuentro": "Testimonios Misioneros",
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
-                "edificio": "Teatro Vicente Murga",
-                "salon": ""
+                "edificio": "Edificio Perea",
+                "salon": "Sala Madre Teresa de Calcuta"
             }
         ]
     },
@@ -37638,6 +37638,151 @@
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
                 "salon": "Salón 103"
+            }
+        ]
+    },
+    {
+        "id": "1299",
+        "enomb": "P. Jesús Negro Marco, Sch. P.",
+        "Pais": "Puerto Rico",
+        "grupo": "Santa Teresita del Niño Jesús",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 102"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Academia Santa María Reina",
+                "salon": "Salón 208"
+            }
+        ]
+    },
+    {
+        "id": "1300",
+        "enomb": "Carmen A. Arroyo Pérez",
+        "Pais": "Puerto Rico",
+        "grupo": "Santa Teresita del Niño Jesús",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 103"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Administración de Empresas",
+                "salon": "Estudio de Católica Televisión"
+            }
+        ]
+    },
+    {
+        "id": "1301",
+        "enomb": "Sor M. Cristina Morales Rivas, OP",
+        "Pais": "Puerto Rico",
+        "grupo": "Santa Teresita del Niño Jesús",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 212"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Administración de Empresas",
+                "salon": "Salón 320"
+            }
+        ]
+    },
+    {
+        "id": "1302",
+        "enomb": "Mariela Ortiz Torres",
+        "Pais": "Puerto Rico",
+        "grupo": "San Francisco Javier",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 203"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 111"
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            }
+        ]
+    },
+    {
+        "id": "1303",
+        "enomb": "Carlos L. Ocasio Figueroa",
+        "Pais": "Puerto Rico",
+        "grupo": "San Francisco Javier",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio Perea",
+                "salon": "Sala Madre Teresa de Calcuta"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 201"
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
             }
         ]
     }
