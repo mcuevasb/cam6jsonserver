@@ -39,7 +39,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -126,14 +126,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -162,7 +162,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -268,10 +268,10 @@
         "agenda": [
             {
                 "dia": "miércoles, 20 de noviembre de 2024",
-                "encuentro": "Proyectos y Experiencias",
-                "horario": "3:00 p.m. a 4:30 p.m. ",
-                "edificio": "Administración de Empresas",
-                "salon": "Salón 320"
+                "encuentro": "",
+                "horario": "",
+                "edificio": "",
+                "salon": ""
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -452,7 +452,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -517,7 +517,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -546,7 +546,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -713,7 +713,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -749,7 +749,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -778,7 +778,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -851,7 +851,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1170,7 +1170,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1257,7 +1257,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1431,7 +1431,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1467,7 +1467,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -1496,7 +1496,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -1518,7 +1518,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1692,7 +1692,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1779,7 +1779,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -1953,7 +1953,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -2040,7 +2040,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -2105,7 +2105,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -2134,7 +2134,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -2214,7 +2214,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -2301,7 +2301,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -2475,7 +2475,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -2562,7 +2562,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -2750,7 +2750,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -2837,7 +2837,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -3011,7 +3011,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -3026,7 +3026,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -3055,7 +3055,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -3098,7 +3098,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -3272,7 +3272,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -3359,7 +3359,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -3533,7 +3533,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -3620,7 +3620,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -3664,7 +3664,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -3693,7 +3693,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -3794,7 +3794,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -3881,7 +3881,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -4164,7 +4164,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -4251,7 +4251,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -4425,7 +4425,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -4461,7 +4461,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -4490,7 +4490,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -4512,7 +4512,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -4686,7 +4686,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -4773,7 +4773,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -4947,7 +4947,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -5034,7 +5034,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -5099,7 +5099,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -5128,7 +5128,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -5208,7 +5208,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -5295,7 +5295,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -5556,7 +5556,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -5730,14 +5730,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -5817,7 +5817,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -6013,7 +6013,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -6085,7 +6085,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -6172,7 +6172,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -6332,7 +6332,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -6346,7 +6346,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -6361,7 +6361,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -6433,7 +6433,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -6607,7 +6607,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -6694,7 +6694,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -6912,14 +6912,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -6948,7 +6948,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -6999,7 +6999,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -7173,7 +7173,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -7260,7 +7260,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -7354,7 +7354,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -7441,7 +7441,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -7615,7 +7615,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -7702,7 +7702,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -7738,7 +7738,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -7767,7 +7767,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -7876,7 +7876,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -8043,14 +8043,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -8079,7 +8079,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -8130,7 +8130,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -8304,7 +8304,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -8391,7 +8391,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -8565,7 +8565,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -8652,7 +8652,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -8688,7 +8688,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -8717,7 +8717,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -8826,7 +8826,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -8913,7 +8913,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9087,7 +9087,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9174,7 +9174,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9326,7 +9326,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -9348,14 +9348,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -9435,7 +9435,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9609,7 +9609,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9696,7 +9696,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9870,7 +9870,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -9957,14 +9957,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -9993,7 +9993,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -10131,7 +10131,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -10218,7 +10218,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -10392,7 +10392,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -10479,7 +10479,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -10602,7 +10602,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -10631,7 +10631,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -10653,7 +10653,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -10740,7 +10740,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -10914,7 +10914,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -11001,7 +11001,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -11160,7 +11160,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -11247,7 +11247,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -11320,7 +11320,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -11349,7 +11349,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -11421,7 +11421,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -11508,7 +11508,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -11682,7 +11682,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -11769,7 +11769,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -11943,7 +11943,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -11958,7 +11958,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -11987,7 +11987,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -12030,7 +12030,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -12204,7 +12204,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -12291,7 +12291,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -12465,7 +12465,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -12552,7 +12552,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -12596,7 +12596,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -12625,7 +12625,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -12726,7 +12726,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -12813,7 +12813,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -12987,7 +12987,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -13074,7 +13074,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -13234,7 +13234,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -13248,7 +13248,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -13263,7 +13263,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -13335,7 +13335,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -13509,7 +13509,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -13596,7 +13596,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -13770,7 +13770,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -13857,7 +13857,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -13872,7 +13872,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -13901,7 +13901,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -14031,7 +14031,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -14118,7 +14118,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -14292,7 +14292,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -14379,7 +14379,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -14546,7 +14546,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -14720,7 +14720,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -14807,7 +14807,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -14959,7 +14959,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -14981,14 +14981,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -15068,7 +15068,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -15242,7 +15242,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -15329,7 +15329,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -15503,7 +15503,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -15590,14 +15590,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -15626,7 +15626,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -15764,7 +15764,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -15851,7 +15851,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16025,7 +16025,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16112,7 +16112,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16235,7 +16235,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -16264,7 +16264,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -16286,7 +16286,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16373,7 +16373,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16547,7 +16547,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16634,7 +16634,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16808,7 +16808,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -16873,7 +16873,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -16895,14 +16895,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -17069,7 +17069,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -17156,7 +17156,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -17330,7 +17330,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -17417,7 +17417,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -17511,7 +17511,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -17540,7 +17540,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -17591,7 +17591,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -17678,7 +17678,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -17932,21 +17932,21 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -18084,7 +18084,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -18120,7 +18120,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -18280,7 +18280,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -18294,7 +18294,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -18316,7 +18316,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -18381,7 +18381,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -18555,7 +18555,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -18642,7 +18642,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -18932,7 +18932,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -18947,7 +18947,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -19002,24 +19002,24 @@
         "agenda": [
             {
                 "dia": "miércoles, 20 de noviembre de 2024",
-                "encuentro": "Discusión Instrumentum Laboris",
+                "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
-                "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "edificio": "Centro de Estudiantes",
+                "salon": "Capilla"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 302"
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Testimonios Misioneros",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Teatro Vicente Murga",
                 "salon": ""
-            },
-            {
-                "dia": "viernes, 22 de noviembre de 2024",
-                "encuentro": "Proyectos y Experiencias",
-                "horario": "3:00 p.m. a 4:30 p.m.",
-                "edificio": "Edificio Perea",
-                "salon": "Sala Madre Teresa de Calcuta"
             }
         ]
     },
@@ -19070,7 +19070,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -19092,7 +19092,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -19118,24 +19118,24 @@
         "agenda": [
             {
                 "dia": "miércoles, 20 de noviembre de 2024",
-                "encuentro": "Proyectos y Experiencias",
-                "horario": "3:00 p.m. a 4:30 p.m.",
-                "edificio": "Academia Santa María Reina",
-                "salon": "Biblioteca"
-            },
-            {
-                "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 303"
+                "salon": "Salón 104"
             },
             {
-                "dia": "viernes, 22 de noviembre de 2024",
+                "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Testimonios Misioneros",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Teatro Vicente Murga",
                 "salon": ""
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m.",
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 203"
             }
         ]
     },
@@ -19193,7 +19193,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -19251,7 +19251,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -19338,7 +19338,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -19469,7 +19469,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -19498,21 +19498,21 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -19585,7 +19585,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -19730,7 +19730,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -19766,7 +19766,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -20085,7 +20085,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -20150,7 +20150,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -20194,21 +20194,21 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -20520,7 +20520,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -20694,7 +20694,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -20716,21 +20716,21 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -20752,7 +20752,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -20861,7 +20861,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -20991,7 +20991,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -21071,7 +21071,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -21100,7 +21100,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -21165,7 +21165,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -21252,7 +21252,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -21296,7 +21296,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -21339,7 +21339,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -21390,7 +21390,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -21542,7 +21542,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -21564,7 +21564,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -21651,7 +21651,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -21745,7 +21745,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -21847,7 +21847,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -21883,7 +21883,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -21934,21 +21934,21 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -22050,7 +22050,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -22079,7 +22079,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -22231,7 +22231,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -22296,7 +22296,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -22398,7 +22398,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -22586,7 +22586,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -22869,7 +22869,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -22891,7 +22891,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -23217,7 +23217,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -23282,7 +23282,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -23384,7 +23384,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -23601,7 +23601,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -23746,7 +23746,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -23826,14 +23826,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -23993,14 +23993,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -24087,7 +24087,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -24145,7 +24145,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -24181,7 +24181,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -24254,7 +24254,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -24283,7 +24283,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -24341,7 +24341,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -24442,7 +24442,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -24696,7 +24696,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -24834,7 +24834,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -24957,7 +24957,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -24993,7 +24993,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -25167,7 +25167,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -25211,7 +25211,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -25269,7 +25269,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -25457,7 +25457,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -25711,7 +25711,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -25849,7 +25849,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -25885,7 +25885,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -26001,14 +26001,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -26037,7 +26037,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -26095,7 +26095,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -26139,7 +26139,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -26262,7 +26262,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -26327,7 +26327,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -26349,7 +26349,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -26487,7 +26487,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -26610,7 +26610,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -26632,7 +26632,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -26748,7 +26748,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -26900,7 +26900,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -26936,7 +26936,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -27074,7 +27074,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -27096,7 +27096,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -27313,7 +27313,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -27538,7 +27538,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -27705,7 +27705,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -27828,7 +27828,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -27850,21 +27850,21 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -27966,7 +27966,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -28125,7 +28125,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -28227,7 +28227,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -28270,7 +28270,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -28495,7 +28495,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -28611,7 +28611,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -28698,7 +28698,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -28720,14 +28720,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -28908,7 +28908,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -28959,7 +28959,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -28988,7 +28988,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -29010,21 +29010,21 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Salón 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Salón 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Salón 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -29039,7 +29039,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -29053,7 +29053,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -29155,7 +29155,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -29184,7 +29184,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -29242,7 +29242,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -29430,7 +29430,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -29655,7 +29655,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -29691,7 +29691,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -29822,7 +29822,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -29974,7 +29974,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -30010,7 +30010,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -30112,7 +30112,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -30300,7 +30300,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -30554,7 +30554,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -30692,7 +30692,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -30873,14 +30873,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -30909,7 +30909,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -31011,14 +31011,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -31069,7 +31069,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -31105,7 +31105,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -31192,7 +31192,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -31315,7 +31315,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -31388,7 +31388,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -31475,7 +31475,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -31540,7 +31540,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -31678,7 +31678,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -31801,7 +31801,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -31837,7 +31837,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -31939,7 +31939,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -32098,7 +32098,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -32323,7 +32323,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -32461,7 +32461,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -32584,7 +32584,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -32700,7 +32700,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -32736,7 +32736,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -32954,7 +32954,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -33084,7 +33084,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -33171,7 +33171,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -33309,7 +33309,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -33338,7 +33338,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -33396,7 +33396,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -33505,7 +33505,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -33657,7 +33657,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -33679,7 +33679,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -33693,7 +33693,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -34012,7 +34012,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -34179,7 +34179,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -34621,7 +34621,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -34723,7 +34723,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -34940,7 +34940,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -34969,7 +34969,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -35165,7 +35165,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -35245,7 +35245,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -35259,7 +35259,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -35484,7 +35484,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -35578,7 +35578,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             }
         ]
     },
@@ -35622,7 +35622,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -35651,14 +35651,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -35694,7 +35694,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             }
         ]
     },
@@ -35774,7 +35774,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -35832,7 +35832,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -35912,14 +35912,14 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -36086,7 +36086,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -36144,7 +36144,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": "Salón 110"
+                "salon": "Salón 111"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -36158,7 +36158,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             }
         ]
     },
@@ -36231,7 +36231,7 @@
                 "encuentro": "Discusión Instrumentum Laboris",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio McManus",
-                "salon": " Salón 201"
+                "salon": "Salón 201"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -36412,7 +36412,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "viernes, 22 de noviembre de 2024",
@@ -36579,7 +36579,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -36738,7 +36738,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 210"
+                "salon": "Sala 203"
             }
         ]
     },
@@ -36840,7 +36840,7 @@
                 "encuentro": "Proyectos y Experiencias",
                 "horario": "3:00 p.m. a 4:30 p.m.",
                 "edificio": "Edificio Spellman/Facultad Derecho",
-                "salon": "Sala 218"
+                "salon": "Sala 200"
             },
             {
                 "dia": "jueves, 21 de noviembre de 2024",
@@ -37493,6 +37493,151 @@
                 "horario": "3:00 p.m. a 4:30 p.m. ",
                 "edificio": "Teatro Vicente Murga",
                 "salon": ""
+            }
+        ]
+    },
+    {
+        "id": "1294",
+        "enomb": "P. Francisco Hernández Rojas",
+        "Pais": "Costa Rica ",
+        "grupo": "Santa Teresita del Niño Jesús",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 102"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 218"
+            }
+        ]
+    },
+    {
+        "id": "1295",
+        "enomb": "Jorge Anibal Torres López",
+        "Pais": "Ecuador",
+        "grupo": "San Francisco Javier",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 210"
+            },
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Academia Santa María Reina",
+                "salon": "Salon 208"
+            },
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Administración de Empresas",
+                "salon": "Estudio de Católica Televisión"
+            }
+        ]
+    },
+    {
+        "id": "1296",
+        "enomb": "Wilfredo X. Díaz",
+        "Pais": "Puerto Rico",
+        "grupo": "Santa Teresita del Niño Jesús",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 101"
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 210"
+            }
+        ]
+    },
+    {
+        "id": "1297",
+        "enomb": "Javier Meléndez Oyola",
+        "Pais": "Puerto Rico",
+        "grupo": "María, Reina de las Misiones",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio Perea",
+                "salon": "Sala Madre Teresa de Calcuta"
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 102"
+            }
+        ]
+    },
+    {
+        "id": "1298",
+        "enomb": "Diego A Morel Torres",
+        "Pais": "Puerto Rico",
+        "grupo": "María, Reina de las Misiones",
+        "agenda": [
+            {
+                "dia": "miércoles, 20 de noviembre de 2024",
+                "encuentro": "Testimonios Misioneros",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Teatro Vicente Murga",
+                "salon": ""
+            },
+            {
+                "dia": "jueves, 21 de noviembre de 2024",
+                "encuentro": "Proyectos y Experiencias",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio Spellman/Facultad Derecho",
+                "salon": "Sala 218"
+            },
+            {
+                "dia": "viernes, 22 de noviembre de 2024",
+                "encuentro": "Discusión Instrumentum Laboris",
+                "horario": "3:00 p.m. a 4:30 p.m. ",
+                "edificio": "Edificio McManus",
+                "salon": "Salón 103"
             }
         ]
     }
